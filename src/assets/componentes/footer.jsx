@@ -8,7 +8,7 @@ function Footer() {
     return (
         <footer>
             <h4>Siga-nos em nossas redes sociais</h4>
-            <div className={styles.social_media}>
+            <div className={styles.imagens}>
                 <img src={instagram} alt="" />
                 <img src={facebook} alt="" />
                 <img src={tiktok} alt="" />
